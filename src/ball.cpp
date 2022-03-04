@@ -1,6 +1,6 @@
-#include "../include/ball.h"
-#include "../include/config.h"
-#include "../include/utils.h"
+#include <ball.h>
+#include <config.h>
+#include <utils.h>
 
 Point getPoint(double u, double v)
 {

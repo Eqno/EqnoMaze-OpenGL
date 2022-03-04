@@ -1,7 +1,7 @@
 #include <vector>
 
-#include "../include/utils.h"
-#include "../include/transform.h"
+#include <utils.h>
+#include <transform.h>
 
 void transform(std::vector <Point> &v, 
 	double a, double b, double c, double d, double e, double f,

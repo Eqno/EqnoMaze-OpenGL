@@ -1,7 +1,7 @@
 
 #include <vector>
 
-#include "../include/utils.h"
+#include <utils.h>
 
 void getCircle(double x, double y, double r,
 	double d, std::vector <Point> &res)

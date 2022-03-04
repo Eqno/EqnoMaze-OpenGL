@@ -10,13 +10,13 @@
 #include <cmath>
 #include <ctime>
 
-#include "../include/ball.h"
-#include "../include/line.h"
-#include "../include/utils.h"
-#include "../include/circle.h"
-#include "../include/config.h"
-#include "../include/transform.h"
-#include "../include/texloader.h"
+#include <ball.h>
+#include <line.h>
+#include <utils.h>
+#include <circle.h>
+#include <config.h>
+#include <transform.h>
+#include <texloader.h>
 using namespace std;
 /*
 wasd 移动，按住 shift 跑步，qe 旋转，m 打开地图，z 编辑地图，x 增加墙，

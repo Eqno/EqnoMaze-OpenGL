@@ -1,5 +1,5 @@
-#include "../include/line.h"
-#include "../include/utils.h"
+#include <line.h>
+#include <utils.h>
 
 void getLine(double x1, double y1, double x2, double y2, std::vector <Point> &res)
 {

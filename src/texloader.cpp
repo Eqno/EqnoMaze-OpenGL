@@ -2,7 +2,7 @@
 #include <gl/gl.h>
 #include <stdio.h>
 
-#include "../include/texloader.h"
+#include <texloader.h>
 
 #define BMP_Header_Length 54
 int power_of_two(int n)
